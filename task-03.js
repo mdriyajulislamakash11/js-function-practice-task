@@ -16,5 +16,5 @@ function make_avg(arr) {
       
 }
 const mark = make_avg(arr);
-
-console.log(mark.toFixed(2));
+const avareg_mark = parseInt(mark);
+console.log(avareg_mark)
